@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -39,7 +39,6 @@
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-555555)
 
 **Backend**
 
