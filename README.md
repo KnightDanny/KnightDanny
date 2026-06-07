@@ -33,7 +33,7 @@
 
 ---
 
-### 🚀 Featured projects
+### 🚀 Personal projects
 
 | Project | Description | Stack |
 |---|---|---|
