@@ -44,11 +44,11 @@
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KnightDanny&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="Daniel's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightDanny&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
+  <a href="https://github.com/KnightDanny?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/KnightDanny?label=Followers&style=for-the-badge&logo=github&labelColor=0d1117&color=2EA043"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=KnightDanny&label=Profile%20views&style=for-the-badge&color=2EA043">
 </p>
 
 ---
