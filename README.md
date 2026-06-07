@@ -94,12 +94,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
-**Soft Skills**
-
-![Leadership](https://img.shields.io/badge/Leadership-555555)
-![Communication](https://img.shields.io/badge/Communication-555555)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-555555)
-
 ---
 
 ### 🚀 Personal projects
