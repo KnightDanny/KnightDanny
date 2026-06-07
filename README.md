@@ -44,14 +44,4 @@
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <a href="https://github.com/KnightDanny?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/KnightDanny?label=Followers&style=for-the-badge&logo=github&labelColor=0d1117&color=2EA043"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=KnightDanny&label=Profile%20views&style=for-the-badge&color=2EA043">
-</p>
-
----
-
 <p align="center"><i>Always building. Open to interesting problems and collaboration.</i></p>
-<!-- profile readme -->
