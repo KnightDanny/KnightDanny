@@ -66,8 +66,6 @@
 ![Genkit](https://img.shields.io/badge/Genkit-DD2C00?logo=firebase&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-555555)
-![Algorithms](https://img.shields.io/badge/Algorithms-555555)
-![Data Structures](https://img.shields.io/badge/Data_Structures-555555)
 
 **Databases**
 
