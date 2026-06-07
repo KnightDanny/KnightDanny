@@ -100,11 +100,6 @@
 ![Communication](https://img.shields.io/badge/Communication-555555)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-555555)
 
-**Languages**
-
-![English](https://img.shields.io/badge/English-C2-2EA043)
-![Amharic](https://img.shields.io/badge/Amharic-Native-2EA043)
-
 ---
 
 ### 🚀 Personal projects
