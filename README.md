@@ -137,6 +137,8 @@
 | [**FocusFlow**](https://github.com/KnightDanny/focusflow) | A productivity app for focused work: Pomodoro & deep-focus timers with ambient sound, task/project management, calendar, and analytics. | Next.js · TypeScript · Prisma · Auth.js |
 | [**Club 5 to 7**](https://github.com/KnightDanny/Club-5-to-7-Website) | Full-stack site for an Addis Ababa film club: browse and RSVP to events, curated screenings, and an admin panel. | Next.js · PostgreSQL · Prisma · NextAuth |
 | [**P2P Price Tracker**](https://github.com/KnightDanny/p2p-price-fetch) | Real-time USDT P2P price aggregator comparing live ads across MEXC, Binance, Bybit & OKX, with a dashboard and JSON/Sheets API. | Python · Flask · Docker · Render |
+| [**Ethiopian Calendar Overlay**](https://github.com/KnightDanny/ethiopian-calendar-overlay) | Chrome extension (Manifest V3) that overlays Ethiopian dates and public holidays onto Google Calendar, computing movable feasts exactly via the Julian computus, with zero dependencies. | Chrome Extension (MV3) · Vanilla JS |
+| [**NETGAUGE**](https://netgauge.vercel.app) | Browser-based internet speed test styled as a retro cockpit panel: download, upload, latency, jitter & bufferbloat on an analog SVG dial, with timed missions and CSV/JSON export. | Vanilla JS · SVG · Cloudflare Edge · Vercel |
 
 ---
 
